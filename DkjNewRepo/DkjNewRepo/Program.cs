@@ -9,7 +9,7 @@ namespace DkjNewRepo
     // master chang 1
     class Program
     {
-        // branch1 change 1
+        // branch1 change 2
         static void Main(string[] args)
         {
         }
